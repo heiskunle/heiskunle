@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heiskunle
-- 👀 I’m interested in .fr0ntend ..
-- 🌱 I’m currently learning .javascript..
+- 👀 I’m a data analyst  ..
+- 🌱 I’m currently learning .java..
 - 💞️ I’m looking to collaborate on with someone on my field
 - 📫 How to reach me ...heisadekunle91@gmail.com
 - 
